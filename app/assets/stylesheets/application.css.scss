@@ -20,3 +20,12 @@
 h1, h2, h3 {
     font-family: 'Manjari', sans-serif;
 }
+
+body, .navbar {
+    // Gradient provided by itmeo team at WebGradients.com
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.navbar {
+    border: none;
+}
