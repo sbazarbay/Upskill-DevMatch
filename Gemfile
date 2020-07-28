@@ -45,7 +45,7 @@ group :development do
 end
 
 # Use Twitter Bootstrap library for front-end UI and layout
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 
 # Use Font Awesome sass gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
